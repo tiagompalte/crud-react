@@ -1,0 +1,14 @@
+{
+  "name": "backend-crud-react",
+  "version": "1.0.0",
+  "description": "Backend of CRUD React",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.13.0"
+  }
+}
